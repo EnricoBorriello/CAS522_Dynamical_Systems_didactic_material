@@ -2,7 +2,6 @@ Instructor: Enrico Borriello, PhD (School of Complex Adaprive systems, ASU)
 Class: CAS 522 Dynamical Systems
 
 This folder contains didactic material for the students of 'CAS 522 Dynamical Systems'.
-Come back at the end of each module, for sample solutions to the coding problems.
 
 Module 2 | Random Networks
 Required Packages: Numpy, Random, PyVis 
